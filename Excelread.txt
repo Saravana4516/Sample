@@ -27,6 +27,7 @@ public class Excel {
         int actualrecords=0;
         int blankrecords=0;
 //evaluating cell type
+//simply added comments
         if (PaymentType.equalsIgnoreCase("One")){
             rowIndex =3;
         }
